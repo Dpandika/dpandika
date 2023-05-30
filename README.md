@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Dio Puja Andika**.\
+
+Saya seorang **Mahasiswa Semester 6** di [Universitas Negeri Semarang](https://unnes.ac.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dio-puja-andika/)ku ya.
+
 <!--
 **Dpandika/dpandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
