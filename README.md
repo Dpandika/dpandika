@@ -6,6 +6,14 @@ Saya seorang **Mahasiswa Semester 6** di [Universitas Negeri Semarang](https://u
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dio-puja-andika/)ku ya.
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dpandika">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dpandika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dpandika&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Dpandika/dpandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
